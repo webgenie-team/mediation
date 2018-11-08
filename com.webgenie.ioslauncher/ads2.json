@@ -2,7 +2,7 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["facebook", "appnext"],
+        "1": ["facebook_banner", "appnext"],
         "2": ["facebook", "appnext"],
         "3": ["facebook"],
         "4": ["facebook", "appnext"],
@@ -10,7 +10,7 @@
         "6": ["facebook", "appnext"],
         "adid": {
             "1": {
-                "facebook": "516449572073764_516886792030042"
+                "facebook_banner": "516449572073764_700217960363590"
             },
             "2": {
                 "facebook": "516449572073764_522011281517593"
