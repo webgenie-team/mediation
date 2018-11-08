@@ -2,30 +2,10 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["facebook_banner", "appnext"],
-        "2": ["facebook", "appnext"],
-        "3": ["facebook"],
-        "4": ["facebook", "appnext"],
-        "5": ["facebook", "appnext"],
-        "6": ["facebook", "appnext"],
+        "3": ["facebook_banner"],
         "adid": {
-            "1": {
-                "facebook_banner": "516449572073764_700217960363590"
-            },
-            "2": {
-                "facebook": "516449572073764_522011281517593"
-            },
             "3": {
-                "facebook": "516449572073764_516886792030042"
-            },
-            "4": {
-                "facebook": "516449572073764_525982081120513"
-            },
-            "5": {
-                "facebook": "516449572073764_525982317787156"
-            },
-            "6": {
-                "facebook": "516449572073764_527381704313884"
+                "facebook_banner": "516449572073764_516886792030042"
             }
         }
     }
