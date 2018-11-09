@@ -4,7 +4,7 @@
     "data": {
         "1": ["facebook", "appnext"],
         "2": ["facebook", "appnext"],
-        "3": ["facebook"],
+        "3": ["appnext"],
         "4": ["facebook", "appnext"],
         "5": ["facebook", "appnext"],
         "adid": {
@@ -13,9 +13,6 @@
             },
             "2": {
                 "facebook": "457984447932814_457989381265654"
-            },
-            "3": {
-                "facebook": "457984447932814_457988474599078"
             },
             "4": {
                 "facebook": "457984447932814_460352151029377"
