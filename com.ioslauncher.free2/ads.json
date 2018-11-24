@@ -4,6 +4,7 @@
     "data": {
         "2": ["admob", "appnext"],
         "3": ["facebook"],
+        "5": ["admob", "facebook", "appnext"],
         "adid": {
             "3": {
                 "facebook": "457984447932814_457988474599078"
