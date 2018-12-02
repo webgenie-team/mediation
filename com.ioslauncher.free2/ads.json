@@ -3,8 +3,6 @@
     "msg": "",
     "data": {
         "2": ["admob", "appnext"],
-        "3": ["appnext"],
-        "5": ["admob", "facebook", "appnext"],
-        "6": ["admob", "facebook", "appnext"]
+        "3": ["appnext"]
     }
 }
