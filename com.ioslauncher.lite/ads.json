@@ -2,12 +2,7 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["facebook","admob"],
-        "2": ["facebook","admob"],
         "3": ["facebook"],
-        "4": ["facebook","admob"],
-        "5": ["facebook","admob"],
-        "6": ["facebook","admob"],
         "adid": {
             "3": {
                 "facebook": "160209157987629_160209227987622"
