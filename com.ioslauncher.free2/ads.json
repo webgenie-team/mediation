@@ -2,8 +2,11 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["admob", "appnext"],
-        "2": ["admob", "appnext"],
-        "3": ["appnext"]
+        "1": ["admob"],
+        "2": ["admob"],
+        "3": ["disable"],
+        "4": ["facebook","admob"],
+        "5": ["facebook","admob"],
+        "6": ["facebook","admob"]
     }
 }
