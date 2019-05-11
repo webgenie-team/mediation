@@ -2,10 +2,16 @@
     "status": 0,
     "msg": "",
     "data": {
-        "3": ["facebook_banner"],
+        "1": ["facebook","admob"],
+        "2": ["facebook","admob"],
+        "3": ["admob","facebook"],
+        "4": ["facebook","admob"],
+        "5": ["facebook","admob"],
+        "6": ["facebook","admob"],
+        "7": ["facebook","admob"],
         "adid": {
             "3": {
-                "facebook_banner": "516449572073764_700217960363590"
+                "facebook": "516449572073764_516886792030042"
             }
         }
     }
