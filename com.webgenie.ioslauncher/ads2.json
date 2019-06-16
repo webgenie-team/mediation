@@ -4,15 +4,10 @@
     "data": {
         "1": ["facebook","admob"],
         "2": ["facebook","admob"],
-        "3": ["admob","facebook"],
+        "3": ["admob"],
         "4": ["facebook","admob"],
         "5": ["facebook","admob"],
         "6": ["facebook","admob"],
-        "7": ["facebook","admob"],
-        "adid": {
-            "3": {
-                "facebook": "516449572073764_516886792030042"
-            }
-        }
+        "7": ["facebook","admob"]
     }
 }
