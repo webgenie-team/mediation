@@ -7,7 +7,7 @@
         "3": ["facebook"],
         "4": ["facebook","admob"],
         "5": ["facebook","admob"],
-        "6": ["facebook","admob"],
+        "6": ["admob","facebook"],
         "adid": {
             "3": {
                 "facebook": "516449572073764_516886792030042"

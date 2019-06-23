@@ -7,7 +7,7 @@
         "3": ["admob"],
         "4": ["facebook","admob"],
         "5": ["facebook","admob"],
-        "6": ["facebook","admob"],
+        "6": ["admob","facebook"],
         "7": ["facebook","admob"]
     }
 }
