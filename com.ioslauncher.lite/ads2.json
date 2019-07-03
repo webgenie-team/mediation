@@ -4,6 +4,11 @@
     "data": {
         "1": ["facebook","admob"],
         "3": ["admob"],
-        "6": ["admob","facebook"]
+        "6": ["admob","facebook"],
+        "adid": {
+            "7": {
+                "facebook": "160209157987629_352656672076209"
+            }
+        }
     }
 }
