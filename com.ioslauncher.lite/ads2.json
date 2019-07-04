@@ -5,6 +5,11 @@
         "1": ["facebook","admob"],
         "3": ["admob"],
         "6": ["admob","facebook"],
-        "7": ["admob","facebook"]
+        "7": ["admob","facebook"],
+        "adid": {
+            "6": {
+                "admob": "ca-app-pub-2503465229971611/1152969532"
+            }
+        }
     }
 }
