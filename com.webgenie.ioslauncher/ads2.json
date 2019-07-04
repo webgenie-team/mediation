@@ -8,11 +8,6 @@
         "4": ["facebook","admob"],
         "5": ["facebook","admob"],
         "6": ["admob","facebook"],
-        "7": ["facebook","admob"],
-        "adid": {
-            "6": {
-                "admob": "ca-app-pub-2503465229971611/3897841936"
-            }
-        }
+        "7": ["facebook","admob"]
     }
 }
