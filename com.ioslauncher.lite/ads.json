@@ -3,9 +3,12 @@
     "msg": "",
     "data": {
         "1": ["admob","facebook"],
-        "3": ["disable"],
+        "3": ["facebook"],
         "6": ["admob","facebook"],
         "adid": {
+            "3": {
+                "facebook": "160209157987629_160209227987622"
+            },
             "6": {
                 "admob": "ca-app-pub-2503465229971611/1152969532"
             }
