@@ -3,10 +3,13 @@
     "msg": "",
     "data": {
         "1": ["fb_banner","admob","facebook"],
-        "3": ["disable"],
+        "3": ["admob","fb_banner"],
         "6": ["fb_banner","admob","facebook"],
         "7": ["admob"],
         "adid": {
+            "3": {
+                "fb_banner": "160209157987629_362545774420632"
+            },
             "6": {
                 "fb_banner": "160209157987629_355286881813188",
                 "admob": "ca-app-pub-2503465229971611/1152969532"
