@@ -2,13 +2,10 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["admob","facebook"],
+        "1": ["admob"],
         "3": ["disable"],
         "6": ["admob","facebook"],
         "adid": {
-            "1": {
-                "facebook": "160209157987629_352656672076209"
-            },
             "6": {
                 "admob": "ca-app-pub-2503465229971611/1152969532"
             }
