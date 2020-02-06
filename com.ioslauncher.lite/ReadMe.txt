@@ -3,5 +3,9 @@ ads.json (第一版 到 v1.10.3)
 支持6个广告位，all apps(3)广告位只支持facebook，不支持admob
 并且left screen(1)被警告，老版本和新版本需要区别对待,所以采用第二版本
 
-ads2.json (v1.10.4 到 ~)
+ads2.json (v1.10.4 到 2.0.7)
 支持7个广告位，all apps(3)广告支持admob，并且添加banner widget广告(7)
+
+ads3.json (v2.0.8 到 ~)
+由于admob不允许在launcher中显示广告，所以需要把left screen(1)禁止
+应用主题和壁纸后不显示弹框广告，直接显示插屏广告
