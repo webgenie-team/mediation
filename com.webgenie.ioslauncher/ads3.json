@@ -1,0 +1,14 @@
+{
+    "status": 0,
+    "msg": "",
+    "data": {
+        "1": ["fb_banner"],
+        "2": ["fb_banner","admob"],
+        "6": ["admob","fb_banner"],
+        "adid": {
+            "6": {
+                "fb_banner": "516449572073764_700217960363590"
+            }
+        }
+    }
+}
