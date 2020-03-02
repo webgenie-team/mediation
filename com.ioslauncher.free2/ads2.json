@@ -8,11 +8,6 @@
         "4": ["admob","facebook"],
         "5": ["admob","facebook"],
         "6": ["fb_banner","admob"],
-        "7": ["admob"],
-        "adid": {
-            "6": {
-                "fb_banner": "457984447932814_734663966931526"
-            }
-        }
+        "7": ["admob"]
     }
 }

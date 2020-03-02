@@ -4,11 +4,6 @@
     "data": {
         "1": ["fb_banner"],
         "2": ["admob","fb_banner"],
-        "6": ["fb_banner","admob"],
-        "adid": {
-            "6": {
-                "fb_banner": "457984447932814_734663966931526"
-            }
-        }
+        "6": ["fb_banner","admob"]
     }
 }
