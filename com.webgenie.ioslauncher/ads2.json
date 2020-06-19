@@ -2,7 +2,7 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["facebook","fb_banner","admob"],
+        "1": ["facebook","fb_banner"],
         "2": ["facebook","fb_banner","admob"],
         "3": ["admob"],
         "4": ["facebook","admob"],
