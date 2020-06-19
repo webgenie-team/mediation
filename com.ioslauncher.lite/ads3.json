@@ -3,6 +3,11 @@
     "msg": "",
     "data": {
         "1": ["fb_banner"],
-        "6": ["fb_banner","admob"]
+        "6": ["fb_banner","admob"],
+        "adid": {
+            "6": {
+                "fb_banner": "160209157987629_355286881813188"
+            }
+        }
     }
 }
