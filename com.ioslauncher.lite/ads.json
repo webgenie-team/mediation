@@ -4,11 +4,6 @@
     "data": {
         "1": ["disable"],
         "3": ["disable"],
-        "6": ["admob","facebook"],
-        "adid": {
-            "6": {
-                "admob": "ca-app-pub-2503465229971611/1152969532"
-            }
-        }
+        "6": ["admob","facebook"]
     }
 }
