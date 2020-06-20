@@ -4,7 +4,7 @@
     "data": {
         "1": ["fb_banner"],
         "3": ["disable"],
-        "6": ["fb_banner","admob","facebook"],
+        "6": ["facebook","fb_banner","admob"],
         "7": ["disable"]
     }
 }

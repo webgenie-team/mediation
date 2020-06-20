@@ -4,6 +4,6 @@
     "data": {
         "1": ["disable"],
         "3": ["disable"],
-        "6": ["admob","facebook"]
+        "6": ["facebook","admob"]
     }
 }
