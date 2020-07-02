@@ -5,6 +5,6 @@
         "1": ["fb_banner"],
         "2": ["fb_banner","admob"],
         "6": ["fb_banner","admob"],
-        "100": ["facebook","admob"]
+        "100": ["admob","facebook"]
     }
 }
