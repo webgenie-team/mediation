@@ -5,7 +5,7 @@
         "1": ["fb_banner"],
         "2": ["admob","fb_banner"],
         "6": ["fb_banner","admob"],
-        "100": ["admob","facebook"],
+        "100": ["facebook","admob"],
         "adid": {
             "6": {
                 "fb_banner": "160209157987629_355286881813188",
