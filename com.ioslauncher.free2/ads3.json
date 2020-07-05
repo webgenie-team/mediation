@@ -5,6 +5,11 @@
         "1": ["fb_banner"],
         "2": ["fb_banner","admob"],
         "6": ["fb_banner","admob"],
-        "100":  ["admob","facebook"]
+        "100":  ["admob","facebook"],
+        "adid": {
+            "6": {
+                "admob": "ca-app-pub-2503465229971611/7021861351"
+            }
+        }
     }
 }
