@@ -2,13 +2,13 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["facebook","fb_banner"],
+        "1": ["fb_banner"],
         "2": ["facebook","fb_banner","admob"],
         "3": ["disable"],
         "4": ["facebook","admob"],
         "5": ["facebook","admob"],
         "6": ["facebook","fb_banner","admob"],
-        "7": ["facebook"],
+        "7": ["disable"],
         "adid": {
             "6": {
                 "fb_banner": "516449572073764_700217960363590"
