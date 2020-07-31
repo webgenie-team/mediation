@@ -3,10 +3,10 @@
     "msg": "",
     "data": {
         "1": ["disable"],
-        "2": ["admob","facebook"],
+        "2": ["admob"],
         "3": ["disable"],
         "4": ["facebook","admob"],
         "5": ["facebook","admob"],
-        "6": ["admob","facebook"]
+        "6": ["admob"]
     }
 }
