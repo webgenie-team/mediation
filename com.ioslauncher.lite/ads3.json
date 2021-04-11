@@ -3,16 +3,12 @@
     "msg": "",
     "data": {
         "1": ["fb_banner"],
-        "2": ["fb_banner","admob"],
-        "6": ["fb_banner","admob"],
-        "100": ["facebook","admob"],
+        "2": ["fb_banner"],
+        "6": ["fb_banner"],
+        "100": ["facebook"],
         "adid": {
             "6": {
-                "fb_banner": "160209157987629_355286881813188",
-                "admob": "ca-app-pub-2503465229971611/7506336260"
-            },
-            "100": {
-                "admob": "ca-app-pub-2503465229971611/7673819155"
+                "fb_banner": "160209157987629_355286881813188"
             }
         }
     }
