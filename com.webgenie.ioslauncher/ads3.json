@@ -3,8 +3,8 @@
     "msg": "",
     "data": {
         "1": ["fb_banner"],
-        "2": ["fb_banner","admob"],
-        "6": ["fb_banner","admob"],
+        "2": ["fb_banner"],
+        "6": ["fb_banner"],
         "100":  ["facebook"],
         "adid": {
             "6": {
