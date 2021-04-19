@@ -9,6 +9,11 @@
         "5": ["facebook"],
         "6": ["fb_banner"],
         "7": ["disable"],
-        "100": ["facebook"]
+        "100": ["facebook","admob"],
+        "adid": {
+            "100": {
+                "admob": "ca-app-pub-2503465229971611/2669334051"
+            }
+        }
     }
 }
