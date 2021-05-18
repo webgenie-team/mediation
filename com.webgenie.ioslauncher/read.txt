@@ -11,6 +11,9 @@ ads2.json (v2.8.8 到 v3.0.9)
 ads3.json (v3.0.10 到 ~)
 由于admob不允许在launcher中显示广告，所以需要把left screen(1)禁止
 应用主题和壁纸后不显示弹框广告，直接显示插屏广告
+v3.2.6：
+1. 添加101广告位，便于单独控制新的插屏广告。
+2. 广告位都支持admob聚合facebook bidding
 
 
 注意：
