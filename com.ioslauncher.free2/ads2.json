@@ -3,29 +3,12 @@
     "msg": "",
     "data": {
         "1": ["fb_banner"],
-        "2": ["fb_banner","admob"],
+        "2": ["fb_banner"],
         "3": ["disable"],
-        "4": ["facebook","admob"],
-        "5": ["facebook","admob"],
-        "6": ["fb_banner","admob"],
+        "4": ["facebook"],
+        "5": ["facebook"],
+        "6": ["fb_banner"],
         "7": ["disable"],
-        "100": ["facebook","admob"],
-        "adid": {
-            "2": {
-                "admob": "ca-app-pub-2503465229971611/7239144190"
-            },
-            "4": {
-                "admob": "ca-app-pub-2503465229971611/7239144190"
-            },
-            "5": {
-                "admob": "ca-app-pub-2503465229971611/7239144190"
-            },
-            "6": {
-                "admob": "ca-app-pub-2503465229971611/7239144190"
-            },
-            "100": {
-                "admob": "ca-app-pub-2503465229971611/2669334051"
-            }
-        }
+        "100": ["facebook"]
     }
 }
