@@ -6,9 +6,14 @@ ads.json (第一版 到 v1.10.3)
 ads2.json (v1.10.4 到 2.0.7)
 支持7个广告位，all apps(3)广告支持admob，并且添加banner widget广告(7)
 
-ads3.json (v2.0.8 到 ~)
+ads3.json (v2.0.8 到 v2.2.0)
 由于admob不允许在launcher中显示广告，所以需要把left screen(1)禁止
 应用主题和壁纸后不显示弹框广告，直接显示插屏广告
 v2.1.6：
 1. 添加101广告位，便于单独控制新的插屏广告。
 2. 广告位都支持admob聚合facebook bidding
+
+ads4.json (v2.2.1 到 ~)
+开始使用MoPub中介，不使用admob中介了，默认的广告id全部内置为最新的，
+所以一开始不用在json中配置广告id。
+恢复插屏广告100广告位，不用101广告位，101广告位以前是给admob中介使用的，目前已经删除admob中介了。
