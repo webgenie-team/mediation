@@ -4,7 +4,7 @@
     "data": {
         "1": ["mopub","fb_banner"],
         "2": ["mopub","fb_banner","admob"],
-        "6": ["mopub","fb_banner","admob"],
+        "6": ["fb_banner","mopub","admob"],
         "100": ["mopub","facebook","admob"],
         "adid": {
             "6": {
