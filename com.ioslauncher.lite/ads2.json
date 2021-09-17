@@ -3,11 +3,11 @@
     "msg": "",
     "data": {
         "1": ["fb_banner"],
-        "2": ["fb_banner"],
+        "2": ["fb_banner","mine"],
         "3": ["disable"],
         "4": ["facebook"],
         "5": ["facebook"],
-        "6": ["fb_banner"],
+        "6": ["fb_banner","mine"],
         "7": ["disable"],
         "100": ["facebook"],
         "adid": {

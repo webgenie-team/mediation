@@ -3,8 +3,8 @@
     "msg": "",
     "data": {
         "1": ["mopub","fb_banner"],
-        "2": ["mopub","fb_banner"],
-        "6": ["fb_banner","mopub"],
+        "2": ["mopub","fb_banner","mine"],
+        "6": ["fb_banner","mopub","mine"],
         "100": ["mopub","facebook"],
         "adid": {
             "2": {
