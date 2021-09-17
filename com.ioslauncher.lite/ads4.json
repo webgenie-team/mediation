@@ -3,9 +3,9 @@
     "msg": "",
     "data": {
         "1": ["mopub","fb_banner"],
-        "2": ["mopub","fb_banner","admob"],
-        "6": ["fb_banner","mopub","admob"],
-        "100": ["mopub","facebook","admob"],
+        "2": ["mopub","fb_banner"],
+        "6": ["fb_banner","mopub"],
+        "100": ["mopub","facebook"],
         "adid": {
             "2": {
                 "fb_banner": "160209157987629_355286881813188"
