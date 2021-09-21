@@ -2,21 +2,13 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["fb_banner"],
-        "2": ["fb_banner","mine"],
+        "1": ["disable"],
+        "2": ["mine"],
         "3": ["disable"],
-        "4": ["facebook"],
-        "5": ["facebook"],
-        "6": ["fb_banner","mine"],
+        "4": ["disable"],
+        "5": ["disable"],
+        "6": ["mine"],
         "7": ["disable"],
-        "100": ["facebook"],
-        "adid": {
-            "2": {
-                "fb_banner": "160209157987629_355286881813188"
-            },
-            "6": {
-                "fb_banner": "160209157987629_355286881813188"
-            }
-        }
+        "100": ["disable"]
     }
 }
