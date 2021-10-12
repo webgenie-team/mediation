@@ -2,10 +2,10 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["tp","fb_banner"],
-        "2": ["tp","fb_banner","admob"],
-        "6": ["tp","fb_banner","admob"],
-        "100": ["tp","facebook","admob"],
+        "1": ["tp"],
+        "2": ["tp"],
+        "6": ["tp"],
+        "100": ["tp"],
         "adid": {
             "6": {
                 "fb_banner": "516449572073764_700217960363590"
