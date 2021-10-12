@@ -12,7 +12,10 @@ v3.1.6：
 1. 添加101广告位，便于单独控制新的插屏广告。
 2. 广告位都支持admob聚合facebook bidding
 
-ads4.json (v3.2.1 到 ~)
+ads4.json (v3.2.1 到 3.2.3)
 开始使用MoPub中介，不使用admob中介了，默认的广告id全部内置为最新的，
 所以一开始不用在json中配置广告id。
 恢复插屏广告100广告位，不用101广告位，101广告位以前是给admob中介使用的，目前已经删除admob中介了。
+
+ads5.json (v3.2.4 到 ~)
+支持TradPlus中介，删除MoPub
