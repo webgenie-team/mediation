@@ -2,10 +2,10 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["mopub","fb_banner"],
-        "2": ["mopub","fb_banner","admob"],
-        "6": ["mopub","fb_banner","admob"],
-        "100": ["mopub","facebook","admob"],
+        "1": ["fb_banner"],
+        "2": ["fb_banner","admob"],
+        "6": ["fb_banner","admob"],
+        "100": ["facebook","admob"],
         "adid": {
             "6": {
                 "fb_banner": "457984447932814_734663966931526"
