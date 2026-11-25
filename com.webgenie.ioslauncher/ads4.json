@@ -3,8 +3,8 @@
     "msg": "",
     "data": {
         "1": ["disable"],
-        "2": ["admob"],
-        "6": ["admob"],
-        "100": ["admob"]
+        "2": ["disable"],
+        "6": ["disable"],
+        "100": ["disable"]
     }
 }
