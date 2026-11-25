@@ -17,5 +17,8 @@ ads4.json (v3.2.1 到 3.2.3)
 所以一开始不用在json中配置广告id。
 恢复插屏广告100广告位，不用101广告位，101广告位以前是给admob中介使用的，目前已经删除admob中介了。
 
-ads5.json (v3.2.4 到 ~)
+ads5.json (v3.2.4 到 3.3.4)
 支持TradPlus中介，删除MoPub
+
+ads6.json (v3.3.5 到 ~)
+换TradPlus广告ID，废弃掉原来的，改用新创建的
